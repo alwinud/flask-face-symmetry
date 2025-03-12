@@ -1,4 +1,6 @@
 Flask
+flask-ngrok
 opencv-python
 mediapipe
 numpy
+gunicorn
